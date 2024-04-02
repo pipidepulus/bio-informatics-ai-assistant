@@ -21,27 +21,21 @@ const InstructionModal: React.FC<InstructionModalProps> = ({
         >
           &times;
         </button>
-        <h2 className="text-2xl font-bold mb-4">Instructions</h2>
+        <h2 className="text-2xl font-bold mb-4">Information</h2>
         <p>
-          This chatbot demonstrates a simple RAG pattern using{" "}
-          <a href="https://pinecone.io" target="_blank" className="text-gray">
-            Pinecone
-          </a>{" "}
-          and Vercel&apos;s AI SDK. In the context panel on the right, you can
-          see some articles you can index in Pinecone (on mobile, open the
-          context panel by clicking the button at the top left of the message
-          panel). Click on the blue link icons to open the URLs in a new window.
+          Globaltelecom presents this simple RAG AI Agent with a knowledgebase of 3 years in biostatstistics, and R language,
+          We are using state of the art technology by OpenAI, Pinecone and Vercel.
+          The mission is assist you in your journey to grow the knowledge database.
+          My current capacity to store specialized knowledge is the equivalent of 155 million pages of text, I can also analyze code in the R language. I am storing the history I have with the user and my help as an assistant will improve over time. I am using an OpenAI pre-trained model API with a window context of 8K/Token. And I am storing the information in a vectorized Pinecone database.
+
         </p>
         <br />
         <p>
-          After you index them, you can ask the chatbot questions about the
-          specific of each article. The segments relevant to the answers the
-          chatbot gives will be highlighted.
+        I can create other areas of specialization that are required or create other assistants for specific analysis tasks, to form a team.
         </p>
         <br />
         <p>
-          You can clear the index by clicking the &quot;Clear Index&quot; button
-          in the context panel.
+        The infrastructure where I am staying in Versel is guarding your AI&apos;s frontline. ISO 27001 Cert, SOC 2 Type 2 Cert, GDPR Compliant.
         </p>
       </div>
       <div

@@ -1,18 +1,18 @@
 export const urls = [{
-  url: "https://e360.yale.edu/digest/indonesia-malaysia-deforestation",
-  title: "Indonesia Deforestation",
+  url: "https://sphweb.bumc.bu.edu/otlt/mph-modules/bs/bs704_biostatisticsbasics/bs704_biostatisticsbasics_print.html",
+  title: "Basic Concepts of Biostatistics",
   seeded: false,
   loading: false,
 },
 {
-  url: "https://cleantechnica.com/2023/06/29/solar-82-of-power-capacity-growth-in-india-in-2022/",
-  title: "Solar Power in India",
+  url: "https://clinmedjournals.org/International-Journal-of-Clinical-Biostatistics-and-Biometrics.php",
+  title: "International Journal of Clinical Biostatistics and Biometrics",
   seeded: false,
   loading: false,
 },
 {
-  url: "https://www.cbssports.com/nba/news/matisse-thybulle-to-stay-with-blazers-who-match-mavericks-three-year-33-million-deal-per-report/",
-  title: "Matisee Thybulle",
+  url: "https://webpath.med.utah.edu/TUTORIAL/BIOSTATS/BIOSTATS.html",
+  title: "Basic biostatistics knowledge",
   seeded: false,
   loading: false,
 }]
